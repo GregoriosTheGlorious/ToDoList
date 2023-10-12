@@ -63,10 +63,6 @@ h1 {
     color: #fff;
 }
 
-.btn-primary:hover {
-    background-color: #0056b3;
-}
-
 .btn-danger {
     background-color: #dc3545;
     color: #fff;
@@ -79,8 +75,4 @@ h1 {
 .btn-success {
     background-color: #28a745;
     color: #fff;
-}
-
-.btn-success:hover {
-    background-color: #218838;
 }
